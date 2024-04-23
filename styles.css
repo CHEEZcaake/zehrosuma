@@ -1,0 +1,30 @@
+.header{
+    position: sticky;
+    top: 0.1%;
+    text-align: center;
+    border-radius: 60px;
+    background-color: #DC5F00;
+  }
+  
+  @font-face {
+    font-family: 'coolvetica';
+    src: url('Fonts/coolvetica.otf') format('opentype');
+  }
+  body{
+    background-color: #000000;
+    font-family: 'coolvetica',sans-serif;
+    font-size: larger;
+  }
+  .font{
+    font-family: 'coolvetica',sans-serif;
+    font-size: larger;
+  }
+  
+  .body{
+    color: #EEEEEE;
+  }
+  
+  .left{
+    margin-left: 2%;
+    margin-right: 2%;
+  }
